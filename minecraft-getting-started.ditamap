@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map_minecraft_getting_started">
+  <title>Getting Started with Minecraft</title>
+  <topicmeta>
+    <shortdesc>Introductory documentation for new players: install the game, create a world, learn basic controls, and survive the first night.</shortdesc>
+  </topicmeta>
+  <topicref href="topics/c_what-is-minecraft.dita" format="dita"/>
+  <topicref href="topics/t_install-and-launch.dita" format="dita"/>
+  <topicref href="topics/t_create-your-first-world.dita" format="dita"/>
+  <topicref href="topics/r_default-controls.dita" format="dita"/>
+  <topicref href="topics/t_survive-your-first-day.dita" format="dita"/>
+</map>

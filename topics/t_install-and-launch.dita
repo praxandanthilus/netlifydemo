@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_install_and_launch">
+  <title>Install and launch Minecraft</title>
+  <shortdesc>Install the launcher for your edition, sign in, and open the game.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Steps depend on whether you use Java Edition or Bedrock. Use the path that matches your purchase.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Download the official launcher for your edition from <xref format="html" href="https://www.minecraft.net/" scope="external">minecraft.net</xref> or your platform store (for example Microsoft Store or console store).</cmd>
+      </step>
+      <step>
+        <cmd>Run the installer and sign in with the Microsoft account (or Mojang account, if still in transition) linked to your license.</cmd>
+      </step>
+      <step>
+        <cmd>Open the launcher, select <uicontrol>Minecraft</uicontrol>, then choose <uicontrol>Play</uicontrol> to download updates if prompted and start the game.</cmd>
+      </step>
+      <step>
+        <cmd>From the main menu, confirm you can reach <uicontrol>Singleplayer</uicontrol>, <uicontrol>Multiplayer</uicontrol>, and <uicontrol>Options</uicontrol>. You are ready to create or join a world.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>Minecraft should be installed and able to launch. If sign-in fails, verify the account that owns the game and reset the password on the official site.</p>
+    </result>
+  </taskbody>
+</task>

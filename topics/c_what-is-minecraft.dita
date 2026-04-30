@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_what_is_minecraft">
+  <title>What is Minecraft?</title>
+  <shortdesc>Minecraft is a sandbox game about placing blocks, exploring, and surviving in procedurally generated worlds.</shortdesc>
+  <conbody>
+    <p>Minecraft drops you into a blocky world made of voxels. You mine resources, craft tools, build structures, and can choose how much danger you want from hostile creatures.</p>
+    <section>
+      <title>Two common editions</title>
+      <ul>
+        <li><term>Java Edition</term> runs on Windows, macOS, and Linux. It has the largest mod ecosystem and receives snapshots for upcoming features.</li>
+        <li><term>Bedrock Edition</term> runs on consoles, mobile devices, and Windows (often via the Microsoft Store). It supports cross-play on supported platforms.</li>
+      </ul>
+      <p>Pick the edition you own or that matches your devices. The core loop—break blocks, collect drops, craft, build—is the same idea on both.</p>
+    </section>
+    <section>
+      <title>Game modes at a glance</title>
+      <dl>
+        <dlentry>
+          <dt>Survival</dt>
+          <dd>You manage health, hunger, and inventory. Hostile mobs appear at night unless you sleep or stay well lit.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Creative</dt>
+          <dd>Unlimited blocks, flight, and no survival pressure—ideal for building experiments.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Peaceful (Survival option)</dt>
+          <dd>Survival mechanics without hostile mob spawns (you can still take environmental damage in some situations).</dd>
+        </dlentry>
+      </dl>
+    </section>
+  </conbody>
+</concept>

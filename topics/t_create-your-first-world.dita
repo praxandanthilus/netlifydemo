@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_create_first_world">
+  <title>Create your first world</title>
+  <shortdesc>Create a new single-player world with beginner-friendly settings.</shortdesc>
+  <taskbody>
+    <context>
+      <p>For your first session, a Survival world on <uicontrol>Easy</uicontrol> or <uicontrol>Peaceful</uicontrol> difficulty reduces pressure while you learn movement and crafting.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>From the title screen, choose <uicontrol>Singleplayer</uicontrol>, then <uicontrol>Create New World</uicontrol>.</cmd>
+      </step>
+      <step>
+        <cmd>Enter a world name you will recognize later.</cmd>
+      </step>
+      <step>
+        <cmd>Set <uicontrol>Game Mode</uicontrol> to <uicontrol>Survival</uicontrol> (or <uicontrol>Creative</uicontrol> if you only want to practice building).</cmd>
+      </step>
+      <step>
+        <cmd>Set <uicontrol>Difficulty</uicontrol> to <uicontrol>Peaceful</uicontrol> or <uicontrol>Easy</uicontrol> for a gentler start.</cmd>
+      </step>
+      <step>
+        <cmd>Optional: open <uicontrol>More World Options</uicontrol> and leave bonus chest enabled if you want starter supplies near spawn.</cmd>
+      </step>
+      <step>
+        <cmd>Choose <uicontrol>Create New World</uicontrol> and wait for terrain generation to finish.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>You spawn in the world. Note your coordinates or build a simple landmark so you can find your first base after exploring.</p>
+    </result>
+  </taskbody>
+</task>

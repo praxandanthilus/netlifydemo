@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_survive_first_day">
+  <title>Survive your first day</title>
+  <shortdesc>Collect basic materials, craft essential tools, and secure shelter before nightfall.</shortdesc>
+  <taskbody>
+    <context>
+      <p>In Survival with hostile mobs enabled, night is dangerous without light or shelter. Aim to have tools, food, and a safe place before dusk.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Punch a tree to collect logs. Open your inventory and craft logs into planks, then planks into sticks.</cmd>
+      </step>
+      <step>
+        <cmd>On a crafting table (four planks in a 2×2 grid in inventory, then place the table), craft a wooden pickaxe: three planks across the top row and two sticks down the middle column.</cmd>
+      </step>
+      <step>
+        <cmd>Mine stone with the pickaxe and craft a stone pickaxe, then a sword if you expect combat.</cmd>
+      </step>
+      <step>
+        <cmd>Gather coal or burn logs in a furnace to make charcoal for torches (stick below coal or charcoal).</cmd>
+      </step>
+      <step>
+        <cmd>Build a small enclosed shelter or dig into a hillside. Place torches inside so mobs do not spawn there.</cmd>
+      </step>
+      <step>
+        <cmd>Optional: craft a bed from three wool and three planks. Sleeping at night skips to dawn if no hostile mobs are nearby.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>After the first night, expand your base, explore for better ores, and experiment with farming and animal breeding for steady food.</p>
+    </result>
+  </taskbody>
+</task>

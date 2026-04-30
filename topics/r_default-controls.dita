@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="ref_default_controls">
+  <title>Default controls (PC)</title>
+  <shortdesc>Common keyboard and mouse bindings in Java and Bedrock on PC. Rebind keys in Options if needed.</shortdesc>
+  <refbody>
+    <section>
+      <title>Movement and camera</title>
+      <table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="c1" colwidth="1*"/>
+          <colspec colname="c2" colwidth="2*"/>
+          <thead>
+            <row>
+              <entry><p>Input</p></entry>
+              <entry><p>Action</p></entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry><p>W, A, S, D</p></entry>
+              <entry><p>Move forward, left, back, right</p></entry>
+            </row>
+            <row>
+              <entry><p>Space</p></entry>
+              <entry><p>Jump; hold to swim up; double-tap toggles Creative flight when flying</p></entry>
+            </row>
+            <row>
+              <entry><p>Left Shift</p></entry>
+              <entry><p>Sneak (edge of blocks, no falling off); swim down while in water</p></entry>
+            </row>
+            <row>
+              <entry><p>Left Ctrl</p></entry>
+              <entry><p>Sprint (consumes hunger in Survival)</p></entry>
+            </row>
+            <row>
+              <entry><p>Mouse</p></entry>
+              <entry><p>Look around</p></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <title>Interaction</title>
+      <table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="c1" colwidth="1*"/>
+          <colspec colname="c2" colwidth="2*"/>
+          <thead>
+            <row>
+              <entry><p>Input</p></entry>
+              <entry><p>Action</p></entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry><p>Left click</p></entry>
+              <entry><p>Attack or mine the targeted block</p></entry>
+            </row>
+            <row>
+              <entry><p>Right click</p></entry>
+              <entry><p>Use item, place block, open doors or containers</p></entry>
+            </row>
+            <row>
+              <entry><p>E</p></entry>
+              <entry><p>Open inventory (Java default; Bedrock may differ—check Controls)</p></entry>
+            </row>
+            <row>
+              <entry><p>1–9</p></entry>
+              <entry><p>Select hotbar slot</p></entry>
+            </row>
+            <row>
+              <entry><p>Q</p></entry>
+              <entry><p>Drop one item from the selected stack</p></entry>
+            </row>
+            <row>
+              <entry><p>Esc</p></entry>
+              <entry><p>Pause menu / close screens</p></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>
