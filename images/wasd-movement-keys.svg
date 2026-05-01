@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="200" viewBox="0 0 280 200" role="img" aria-labelledby="title desc">
+  <title id="title">WASD movement layout</title>
+  <desc id="desc">Four keys in a diamond: W forward, A left, S back, D right.</desc>
+  <rect width="280" height="200" fill="#1e1e1e" rx="8"/>
+  <text x="140" y="28" fill="#aaa" font-family="Segoe UI, sans-serif" font-size="14" text-anchor="middle">Typical movement keys (PC)</text>
+  <g transform="translate(100, 50)" font-family="Consolas, monospace" font-size="18" font-weight="bold" text-anchor="middle">
+    <rect x="50" y="0" width="44" height="44" fill="#3a7bd5" rx="4" stroke="#fff" stroke-width="2"/>
+    <text x="72" y="30" fill="#fff">W</text>
+    <rect x="0" y="50" width="44" height="44" fill="#2d5a8a" rx="4" stroke="#fff" stroke-width="2"/>
+    <text x="22" y="80" fill="#fff">A</text>
+    <rect x="50" y="50" width="44" height="44" fill="#2d5a8a" rx="4" stroke="#fff" stroke-width="2"/>
+    <text x="72" y="80" fill="#fff">S</text>
+    <rect x="100" y="50" width="44" height="44" fill="#2d5a8a" rx="4" stroke="#fff" stroke-width="2"/>
+    <text x="122" y="80" fill="#fff">D</text>
+  </g>
+  <g font-family="Segoe UI, sans-serif" font-size="11" fill="#ccc">
+    <text x="172" y="95" text-anchor="start">forward</text>
+    <text x="48" y="145" text-anchor="start">left</text>
+    <text x="172" y="145" text-anchor="start">back</text>
+    <text x="248" y="145" text-anchor="start">right</text>
+  </g>
+</svg>

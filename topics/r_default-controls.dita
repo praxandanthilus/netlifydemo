@@ -6,6 +6,11 @@
   <refbody>
     <section>
       <title>Movement and camera</title>
+      <fig id="fig_wasd_movement">
+        <title>WASD layout</title>
+        <desc>Diagram of W, A, S, and D keys in a diamond pattern labeled forward, left, back, and right.</desc>
+        <image href="../images/wasd-movement-keys.svg" format="svg" placement="break"/>
+      </fig>
       <table frame="all" colsep="1" rowsep="1">
         <tgroup cols="2">
           <colspec colname="c1" colwidth="1*"/>
@@ -43,6 +48,11 @@
     </section>
     <section>
       <title>Interaction</title>
+      <fig id="fig_hotbar_slots">
+        <title>Hotbar slot numbers</title>
+        <desc>Nine boxes in a row numbered 1 through 9, representing the selectable hotbar slots.</desc>
+        <image href="../images/hotbar-slots.svg" format="svg" placement="break"/>
+      </fig>
       <table frame="all" colsep="1" rowsep="1">
         <tgroup cols="2">
           <colspec colname="c1" colwidth="1*"/>
