@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="90" viewBox="0 0 360 90" role="img" aria-labelledby="htitle hdesc">
+  <title id="htitle">Hotbar slots 1 through 9</title>
+  <desc id="hdesc">Nine numbered boxes representing the bottom inventory hotbar.</desc>
+  <rect width="360" height="90" fill="#1e1e1e" rx="8"/>
+  <text x="180" y="22" fill="#aaa" font-family="Segoe UI, sans-serif" font-size="13" text-anchor="middle">Hotbar (keys 19 select a slot)</text>
+  <g transform="translate(12, 36)" font-family="Consolas, monospace" font-size="14" font-weight="bold">
+    <g transform="translate(0,0)">
+      <rect width="36" height="36" fill="#333" stroke="#8b6914" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">1</text>
+    </g>
+    <g transform="translate(40,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">2</text>
+    </g>
+    <g transform="translate(80,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">3</text>
+    </g>
+    <g transform="translate(120,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">4</text>
+    </g>
+    <g transform="translate(160,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">5</text>
+    </g>
+    <g transform="translate(200,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">6</text>
+    </g>
+    <g transform="translate(240,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">7</text>
+    </g>
+    <g transform="translate(280,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">8</text>
+    </g>
+    <g transform="translate(320,0)">
+      <rect width="36" height="36" fill="#333" stroke="#555" stroke-width="2" rx="2"/>
+      <text x="18" y="24" fill="#fff" text-anchor="middle">9</text>
+    </g>
+  </g>
+</svg>
